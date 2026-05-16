@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< HEADd
 # TerpHealth Copilot
 
 TurboTax + Google Maps for UMD student healthcare.
