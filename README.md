@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TerpHealth Copilot
 
 TurboTax + Google Maps for UMD student healthcare.
@@ -59,3 +60,6 @@ npx vercel --prod --yes
 ## Disclaimer
 
 This is not medical advice or a final insurance quote. For emergencies call 911. For mental health crisis call/text 988 or UMD Counseling Center 301-314-7651.
+=======
+# terphealth-copilot
+>>>>>>> 0538ce9fcbd7572edd5072f711e90eb6026789a4
